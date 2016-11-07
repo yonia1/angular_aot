@@ -1,3 +1,4 @@
+this project is a part of a blog http://www.talkinghightech.com/en/angular-2-aot-ahead-of-time/
 # AngularAot
 <h2 style="text-align: center;">AOT - ahead of time</h2>
 &nbsp;
